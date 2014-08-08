@@ -2,7 +2,7 @@ var Speakable = require('./');
 var API_KEY = process.env.GKEY;
 
 // Setup google speech
-var speakable = new Speakable({key: API_KEY});
+var speakable = new Speakable({key: API_KEY}, { lang: "de-DE" });
 
 speakable.on('speechStart', function() {
   console.log('onSpeechStart');
