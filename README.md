@@ -12,7 +12,7 @@ If you ever talked to your XBOX360 (kinect) you're already familiar on how a con
 
 ## How
 
-It's pure JavaScript magic... Ok, not yet! The actual voice recognition is then achieved trough a POST to the the Google Speech API.
+It's pure JavaScript magic... Ok, not yet! The actual voice recognition is achieved trough a POST to the the Google Speech API.
 
 ## Setup
 
